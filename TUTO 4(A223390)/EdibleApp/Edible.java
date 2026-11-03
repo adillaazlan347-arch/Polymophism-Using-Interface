@@ -1,0 +1,3 @@
+interface Edible {
+    String howToEat();
+}
